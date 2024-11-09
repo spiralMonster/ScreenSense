@@ -2,7 +2,7 @@ Here's a suggested README file for your project:
 
 ---
 
-# =ScreenSense
+# ScreenSense
 
 This project provides comprehensive insights into a child's screen time and activity patterns. It leverages Generative AI and Machine Learning to help parents manage screen time effectively, predict suitable limits, and encourage balanced social activities for the child. The project includes personalized activity suggestions based on the child’s interests and offers reward recommendations to foster positive behavior.
 
